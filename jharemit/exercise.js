@@ -13,7 +13,7 @@ exercise.load = function(salary, boston){
 exercise.findBiggerSalaries = function(){
 // CODE FROM LECTURE!
 
-exercise.salaries.filter(exercise.largerSalary);
+return exercise.salaries.filter(exercise.largerSalary);
 
 };
 
